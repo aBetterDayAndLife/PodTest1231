@@ -17,7 +17,6 @@ class ViewController: UIViewController {
         
         let mainTest = MainTest(a: 1, b: "Hello")
         mainTest.log()
-        //test
     }
 
     override func didReceiveMemoryWarning() {
